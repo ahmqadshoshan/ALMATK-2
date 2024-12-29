@@ -1,0 +1,22 @@
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+.card {
+    border-radius: 10px;
+    background-color: #ffffff;
+}
+
+h1 {
+    font-weight: bold;
+}
+
+button:hover {
+    opacity: 0.9;
+    transition: 0.3s ease;
+}
+
+#result {
+    font-weight: bold;
+    margin-top: 20px;
+}
